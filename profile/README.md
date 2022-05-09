@@ -2,6 +2,7 @@ Here we keep most important components of the ecosystem around [EO](https://www.
 the [𝜑-calculus](https://arxiv.org/abs/2111.13384) it's based on, including:
 
   * [/eo](https://www.github.com/objectionary/eo) is a canonical transpiler of EO programs to Java (start here!)
+  * [/sandbox](https://github.com/objectionary/sandbox) is where you can play with a ready-to-use simple EO program
   * [/eoc](https://www.github.com/objectionary/eoc) is a command line toolkit for compiling and running EO programs
   * [/home](https://www.github.com/objectionary/home) is where we keep EO sources of all "standard" objects
   * [/try-phi](https://github.com/objectionary/try-phi) is an online interpreter of 𝜑-calculus expressions
