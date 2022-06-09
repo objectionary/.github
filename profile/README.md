@@ -9,6 +9,8 @@ the [𝜑-calculus](https://arxiv.org/abs/2111.13384) it's based on, including:
 
 If you want to discuss, join our Telegram chat: [@polystat_org](https://t.me/polystat_org).
 
+Our blog with recent news is here: [news.eolang.org](https://news.eolang.org)
+
 Our Twitter tag is [#eolang](https://twitter.com/search?q=%23eolang).
 
 By the way, we still don't have these modules and expect you to contribute:
