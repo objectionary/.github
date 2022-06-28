@@ -1,6 +1,5 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/objectionary/home/blob/master/LICENSE.txt)
 [![Stars](https://img.shields.io/github/stars/objectionary)](https://github.com/objectionary)
-[![Join our Telegramm group](https://img.shields.io/badge/telegram?logo=telegram&link=http://t.me/polystat_org)](http://t.me/polystat_org)
 
 Here we keep most important components of the ecosystem around [EO](https://www.eolang.org) programming language and
 the [𝜑-calculus](https://arxiv.org/abs/2111.13384) it's based on, including:
