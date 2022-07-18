@@ -13,7 +13,7 @@ the [𝜑-calculus](https://arxiv.org/abs/2111.13384) it's based on, including:
 
 If you want to discuss, join our Telegram chat: [@polystat_org](https://t.me/polystat_org).
 
-Our blog with recent news is here: [news.eolang.org](https://news.eolang.org).
+Our blog with recent news is here: [news.eolang.org](https://news.eolang.org). Read our academic [papers](https://news.eolang.org/papers.html).
 
 Our Twitter tag is [#eolang](https://twitter.com/search?q=%23eolang). This is what [Hacker News](https://news.ycombinator.com/item?id=28423328) thinks about us.
 
