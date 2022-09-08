@@ -18,13 +18,4 @@ Our blog with recent news is here: [news.eolang.org](https://news.eolang.org). R
 
 Our Twitter tag is [#eolang](https://twitter.com/search?q=%23eolang). This is what [Hacker News](https://news.ycombinator.com/item?id=28423328) thinks about us.
 
-By the way, we still don't have these modules and expect you to contribute:
-
-  * EO to [ARM](https://en.wikipedia.org/wiki/ARM_architecture)/[x86](https://en.wikipedia.org/wiki/X86) compiler (maybe as [GCC](https://gcc.gnu.org/frontends.html) or [LLVM](https://clang.llvm.org) frontend)
-  * EO to Ruby/JavaScript/Go/PHP compilers
-  * EO to Java bridge, allowing Java objects to "live" inside EO programs
-  * ARM/x86 to EO "decompiler"
-  * Plugins for [VS Code](https://en.wikipedia.org/wiki/Visual_Studio_Code),
-    [Vim](https://www.vim.org),
-    and
-    [Sublime Text](https://www.sublimetext.com)
+By the way, here is [the list of things](https://github.com/objectionary/ideas/issues) we still don't have time to implement. You can help!
