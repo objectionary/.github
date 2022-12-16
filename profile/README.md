@@ -11,6 +11,7 @@ the [𝜑-calculus](https://arxiv.org/abs/2111.13384) it's based on, including:
   * [/eoc](https://www.github.com/objectionary/eoc) is a command line toolkit for compiling and running EO programs
   * [/home](https://www.github.com/objectionary/home) is where we keep EO sources of all "canonical" objects
   * [/try-phi](https://github.com/objectionary/try-phi) is an online interpreter of 𝜑-calculus expressions
+  * [/eo-vscode](https://github.com/objectionary/eo-vscode) is EO plugin for Visual Studio
 
 Our blog with recent news is here: [news.eolang.org](https://news.eolang.org).
 Read our academic [papers](https://news.eolang.org/papers.html).
