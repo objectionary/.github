@@ -19,7 +19,7 @@ Read [the book](https://www.objectionary.com/eo-book/book.pdf) about EO.
 
 Our Twitter tag is [#eolang](https://twitter.com/search?q=%23eolang). This is what [Hacker News](https://news.ycombinator.com/item?id=28423328) thinks about us.
 
-If you want to discuss, join our Telegram chat: [@polystat_org](https://t.me/polystat_org).
+If you want to discuss, join our Telegram chat: [@eolang_org](https://t.me/eolang_org).
 
 By the way, here is [the list of things](https://github.com/objectionary/ideas/issues) we still don't have time to implement. You can help!
 
