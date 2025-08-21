@@ -6,11 +6,12 @@ Here are the components around the [EO](https://www.eolang.org) programming lang
 the [𝜑-calculus](https://arxiv.org/abs/2111.13384) it's based on:
 
   * [/eo](https://www.github.com/objectionary/eo) is the canonical transpiler of EO programs to Java (start here!)
-  * [/eo-lsp-server](https://github.com/objectionary/eo-lsp-server) is an LSP server for EO
-  * [/eo-intellij-plugin](https://github.com/objectionary/eo-intellij-plugin) is an EO plugin for JetBrains IDEs
+  * [/lints](https://www.github.com/objectionary/lints) is a collection of linting rules for EO
   * [/eoc](https://www.github.com/objectionary/eoc) is a command line toolkit for compiling and running EO programs
-  * [/home](https://www.github.com/objectionary/home) is where we keep EO sources of all "canonical" objects
+  * [/eo-lsp-server](https://github.com/objectionary/eo-lsp-server) is an LSP server for EO
   * [/eo-vscode](https://github.com/objectionary/eo-vscode) is an EO plugin for VS Code
+  * [/eo-intellij-plugin](https://github.com/objectionary/eo-intellij-plugin) is an EO plugin for JetBrains IDEs
+  * [/home](https://www.github.com/objectionary/home) is where we keep EO sources of all "canonical" objects
 
 Our blog with recent news is here: [news.eolang.org](https://news.eolang.org).
 Read our academic [papers](https://news.eolang.org/papers.html).
