@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/objectionary/home/blob/master/LICENSE.txt)
 [![Stars](https://img.shields.io/github/stars/objectionary)](https://github.com/objectionary)
-[![Telegram](https://img.shields.io/badge/Telegram-join-active?logo=telegram)](https://t.me/polystat_org)
+[![Telegram](https://img.shields.io/badge/Telegram-join-active?logo=telegram)](https://t.me/eolang_org)
 
 Here are the components around the [EO](https://www.eolang.org) programming language and
 the [𝜑-calculus](https://arxiv.org/abs/2111.13384) it's based on:
