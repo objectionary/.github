@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/objectionary/home/blob/master/LICENSE.txt)
+[![Zerocracy vitals](https://www.eolang.org/zerocracy/objectionary-badge.svg)](https://www.eolang.org/zerocracy/objectionary-vitals.html)
 [![Stars](https://img.shields.io/github/stars/objectionary)](https://github.com/objectionary)
 [![Telegram](https://img.shields.io/badge/Telegram-join-active?logo=telegram)](https://t.me/eolang_org)
 
